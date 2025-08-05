@@ -1,4 +1,4 @@
-# 🌦 Real-Time Weather Report Analytics – Power BI + Weather API
+<h1 align="center">🌦 Real-Time Weather Report Analytics – Power BI + Weather API</h1>
 
 ## 📌 Project Overview
 An interactive **real-time weather dashboard** built in **Power BI** using **live Weather API data**.  
